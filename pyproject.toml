@@ -3,7 +3,7 @@ name = "discord_basic_bridge"
 version = "0.1.1"
 description = "Discord Basic Bridge"
 authors = ["Krish Yadav <7krishyadav@gmail.com>"]
-readme = README.md
+readme = "README.md"
 classifiers = [
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
