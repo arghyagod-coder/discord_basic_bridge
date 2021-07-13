@@ -139,6 +139,8 @@ cython_debug/
 # Binary
 *.mp4
 *.jpg
+dbb.py
+test.py
 
 # Misc
 todos.md
